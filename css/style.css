@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    
+}
+
+.text-content {
+    text-align: center;
+    color: #fff;
+    
+    z-index: 15;
+}
+
+
+
+
+.bg {
+    background-image: url(../img/architecture-bridge-buildings-1280.jpg);
+
+    
+ /* Full height */
+ height: 100%; 
+
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
